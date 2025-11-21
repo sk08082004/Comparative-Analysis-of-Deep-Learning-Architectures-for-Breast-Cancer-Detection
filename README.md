@@ -328,6 +328,6 @@ python src/generate_report.py
 
 ## Authors
 
-**Sunny Kumar**, **Abhijeet Dhanotiya**, **Tushan Kumar Sinha**, **Arpan Mishra**, **Tatikonda Aditya**
+**Sunny Kumar**, **Abhijeet Dhanotiya**, **Tushan Kumar Sinha**
 
 — Initial development & maintenance.
