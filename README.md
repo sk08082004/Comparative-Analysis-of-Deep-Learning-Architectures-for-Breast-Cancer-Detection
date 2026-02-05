@@ -326,8 +326,6 @@ python src/generate_report.py
 
 ---
 
-## Authors
-
 ## Collaborators
 
 <p align="left">
