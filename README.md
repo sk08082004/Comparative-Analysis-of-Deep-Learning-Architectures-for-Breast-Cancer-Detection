@@ -328,6 +328,31 @@ python src/generate_report.py
 
 ## Authors
 
-**Sunny Kumar**, **Abhijeet Dhanotiya**, **Tushan Kumar Sinha**
+## Collaborators
+
+<p align="left">
+  <a href="https://github.com/abhijeetd05">
+    <img src="https://github.com/abhijeetd05.png"
+        width="60"
+    />
+  </a>
+  <a href="https://github.com/sk08082004">
+    <img src="https://github.com/sk08082004.png" width="60" />
+  </a>
+  <a href="https://github.com/Tushan-45">
+    <img src="https://github.com/Tushan-45.png" width="60" />
+  </a>
+  <a href="https://github.com/GSAnuj">
+    <img src="https://github.com/GSAnuj.png" width="60" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/abhijeetd05" style="text-decoration:none; color:inherit;">Abhijeet Dhanotiya</a> •
+  <a href="https://github.com/sk08082004" style="text-decoration:none; color:inherit;">Sunny Kumar</a> •
+  <a href="https://github.com/Tushan-45" style="text-decoration:none; color:inherit;">Tushan Kumar Sinha</a> •
+  <a href="https://github.com/GSAnuj" style="text-decoration:none; color:inherit;">Anuj Gupta</a>
+
+</p>
 
 — Initial development & maintenance.
